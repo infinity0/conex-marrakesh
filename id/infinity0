@@ -1,0 +1,64 @@
+signed: [
+  ["wraps" 0x0]
+  ["version" 0x0]
+  ["typ" "author"]
+  [
+    "resources"
+    [
+      [
+        ["typ" "key"]
+        ["name" "infinity0"]
+        ["index" 0x1]
+        ["digest" ["SHA256" "dloP7viOu1H2T7jCOIhp1EN26aQiKqzEXy7gUwrWwSM="]]
+      ]
+      [
+        ["typ" "account"]
+        ["name" "infinity0"]
+        ["index" 0x2]
+        ["digest" ["SHA256" "QNe2uc5aDetlBc4SoTNB/1oI8zUd+NN+4bZiyJx6neo="]]
+      ]
+      [
+        ["typ" "account"]
+        ["name" "infinity0"]
+        ["index" 0x3]
+        ["digest" ["SHA256" "rddtjijMCEzQ0NurxMX5o6ArVUPCJG6Xj5N5v+nzg5c="]]
+      ]
+    ]
+  ]
+  ["name" "infinity0"]
+  ["created" 0x58BED36A]
+  ["counter" 0x1]
+]
+
+keys: [
+  [
+    [
+      "RSA"
+      """
+-----BEGIN PUBLIC KEY-----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAnGd5qJ7zNJD85bu59bXt
+5yNm+RV35S3WlN5mrnmjHzu/HYeSE1NdAsiZCH49dZRayPTtWMI2vUNLpokaOjYH
+LzYWzziKxnBZo+iE1P0KX5wqdwA2+/cl5OpHO3RoA0sTQrNzOX3SGSHSU5vbJ8/0
+Llvpx6MHTR44dxNmBhIQu1Sq9yHLtiM9mDWl+Vpmw7z5P0JFECXQJ6ocwMp6t26d
+ahTAccouzVRSa9QmX6bLYbucbNqKs0d/WwG5HSsatPpFgEjx6qVB5M7y2qzhpD9v
+6MR8llqjY/T10d5rkb4Muq5za9RASWwEkupjL8HC12rcTxW78zQLdSh1A9HuxQhh
+XAwi6GA7O+e0cydHuxxSSEQxPx1onNaD4G5DPTXycKRlWT1fFf5/SIM38ruYtDUR
+hSDE0DexuWNbDZonCKjNzdZN3Y9/DPYnyVx7TaKN4BAWvxzCuQGD4z5nnVxNeEpX
+roBWtP/g3RXRmCsA6PRKHTMLFOqpbWE2yIDbafic01FskiK/OWj5LwPSCMXDyB0s
+XOcDXzbRf/nTDGl0kojyip9Z479iKUq46ZQIUgrtgNoFSI2Q7YBrmYAsY3zKwVzV
+8x6h/UlX/k2j9zwsJshVvy4lUuzWpiLtGc+kRz1TGOf9e+h/ropf41604DiPJuWs
+/OU9rGQIvt0BbibkpBio+SECAwEAAQ==
+-----END PUBLIC KEY-----"""
+      0x58BED36A
+    ]
+    [
+      0x58BED36A
+      "RSA-PSS-SHA256"
+      "dApdyn//f8OxIejZHuM3t3HkQJhZcUPybPw9/63ax1oUvgQo2iPORZlWH/XflvAQuQRSLA2c3xW1tY/W01RHgNNBXySSfmOIeX8dsiQVDTEgCn5kQhnxlr/i9hP8ZbddzkI/9C9SKbjlpsOFlBwfiBG2hVHc6geyOEl1Xhod3cWE68raWisuh7PQWopmnw2kBNDVpUJOt+UBs4HS9P2LeIfzXwengZEpIRQWAyyKFdRtdxM7UVuu0OVx0/fQ47TIGxSCbg01Zw84o1okyaHY2jeWQQbtzJ9OTywmaMRxV1KsbYdELVX/zsWqL9NZTgazdjduzWpkP90LPhS7XIUerGwWDDYFgk1Uq4e+lJHn8H6RHSv9Zqt3DYaBeXodTgcnLoIcZXAH8hd+8PlGBs0x58URgBAcQs7auM8vz4yDAnuicOY1Vyx7l5J8reelXyJ5EXwybS3eNppeDUF4Lpovj3/dSe0s9St+gVkP/hKLm8+tSSCrctN8lUljkdiPFwnCKLpyM6GqyY0muu6QY1k12fbygxC16xJUZLGkKME+Ne4ud7w0bHuzK8wYOGmNHaCtl1Ypp2h2nvWYE5BT20ZW8YAUlne5NXHBylIqo+JU2E4pcxFYE5bvCx34NE7cngb5adsRkGiLEY2va0syCqAwZjtz0uG5eC+lPsL+FGZ6lZg="
+    ]
+  ]
+]
+accounts: [
+  ["github" "infinity0"]
+  ["email" "infinity0@pwned.gg"]
+]
